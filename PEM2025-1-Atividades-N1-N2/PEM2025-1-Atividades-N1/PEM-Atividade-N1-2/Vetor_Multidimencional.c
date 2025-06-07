@@ -1,3 +1,12 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programaçao Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: *
+* Data - 27/02/2025                                      * 
+* Autor: Matheus Rodrigues Frigola                       *
+*--------------------------------------------------------*/
 #include <stdio.h>
 #include <string.h>
 
